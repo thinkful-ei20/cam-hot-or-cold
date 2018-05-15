@@ -1,0 +1,13 @@
+.what {
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+  top: 0;
+  left: 0;
+  width: 200px;
+  margin: 0;
+}
+
+.what h2 {
+  margin: 0;
+}

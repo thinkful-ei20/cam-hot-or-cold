@@ -1,0 +1,46 @@
+.guess {
+  position: relative;
+  widows: 100%;
+}
+
+.guess input {
+  margin-top: 20px;
+}
+
+.guess p {
+  font-size: 30px;
+  text-align: center;
+}
+
+#count {
+  color: #f39c12;
+  font-weight: 700;
+  font-size: 35px;
+}
+
+.enterGuess {
+  position: relative;
+  display: block;
+  width: 300px;
+  height: 50px;
+  background-color: #50597b;
+  border-radius: 4px;
+  margin: 10px auto 0;
+  text-align: center;
+  font-size: 30px;
+  border: 1px solid black;
+}
+
+.button {
+  background-color: #1f253D;
+  position: relative;
+  display: block;
+  width: 300px;
+  height: 50px;
+  border-radius: 4px;
+  margin: 10px auto 0;
+  text-align: center;
+  color: #95a5a6;
+  font-size: 30px;
+}
+
